@@ -13,6 +13,7 @@
   --gradient-background: var(--gradient-base-background-2);
 }
 
+
 .color-inverse {
   --color-foreground: var(--color-base-background-1);
   --color-background: var(--color-base-text);
@@ -990,6 +991,7 @@ summary::-webkit-details-marker {
 
 .title-wrapper--no-top-margin > .title {
   margin-top: 0;
+  text-align: center;
 }
 
 .subtitle {
